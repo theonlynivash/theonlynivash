@@ -1,15 +1,16 @@
+<img src="https://raw.githubusercontent.com/theonlynivash/theonlynivash/main/Programming-bro.svg" width="280" align="right" />
 
 # Srinivash Karthikeyan
-<img src="https://raw.githubusercontent.com/theonlynivash/theonlynivash/main/Programming-bro.svg" width="280" align="right" />
 
 B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year)
 
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 Exploring Machine Learning, Data Science, and Full Stack Development.
-PROJECTS DONE :
-SCEDULAR - constraint satisfication problem solving based application for time table generation for class , faculty and lab wise without conflicting given constriants
-CONSULT SCRIBE - ai assisted doctor patient consultation report generater ,sends report to patient inbox , patient data management , review patient records 
+
+**Projects Done:**
+- **SCEDULAR** — Constraint satisfaction based application for timetable generation, handling class, faculty, and lab scheduling without conflicts.
+- **Consult Scribe** — AI-assisted doctor-patient consultation report generator that sends reports to the patient's inbox, with patient data management and record review.
 
 <br clear="right">
 
