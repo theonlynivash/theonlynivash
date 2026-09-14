@@ -1,4 +1,4 @@
-<img src="Programming-bro.svg" width="280" align="right" />
+<img src="https://raw.githubusercontent.com/theonlynivash/theonlynivash/main/Programming-bro.svg" width="280" align="right" />
 
 # Srinivash Karthikeyan
 
@@ -7,10 +7,11 @@ B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 Exploring Machine Learning, Data Science, and Full Stack Development.
-Currently building **SCEDULAR**, an AI-based timetable scheduling system, and **Consult Scribe**, an AI-powered clinical documentation assistant.
+Currently building **SCEDULAR** and **Consult Scribe**.
 
 <br clear="right">
 
+---
 
 <h2 align="center">Tech Stack</h2>
 
