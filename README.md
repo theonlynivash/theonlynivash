@@ -11,7 +11,6 @@ Currently building **SCEDULAR**, an AI-based timetable scheduling system, and **
 
 <br clear="right">
 
----
 
 <h2 align="center">Tech Stack</h2>
 
