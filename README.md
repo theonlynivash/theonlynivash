@@ -10,7 +10,7 @@ B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year
 
 <p align="center">
 Exploring Machine Learning, Data Science, and Full Stack Development.<br>
-Currently building <b>SCEDULAR</b>, an AI-based timetable scheduling system, and <b>Consult Scribe</b>, an AI-powered clinical documentation assistant.
+Currently building <b>SCEDULAR</b>, and <b>Consult Scribe</b>
 </p>
 
 <br>
