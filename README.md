@@ -7,6 +7,9 @@ B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 Exploring Machine Learning, Data Science, and Full Stack Development.
+PROJECTS DONE :
+SCEDULAR - constraint satisfication problem solving based application for time table generation for class , faculty and lab wise without conflicting given constriants
+CONSULT SCRIBE - ai assisted doctor patient consultation report generater ,sends report to patient inbox , patient data management , review patient records 
 
 <br clear="right">
 
