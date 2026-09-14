@@ -1,5 +1,4 @@
 
-
 # Srinivash Karthikeyan
 <img src="https://raw.githubusercontent.com/theonlynivash/theonlynivash/main/Programming-bro.svg" width="280" align="right" />
 B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year)
@@ -20,7 +19,7 @@ Exploring Machine Learning, Data Science, and Full Stack Development.
 
 <p align="center"><sub><b>Languages</b></sub></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,java&theme=dark" />
 </p>
 
 <p align="center"><sub><b>Frontend</b></sub></p>
