@@ -7,9 +7,7 @@ B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 Exploring Machine Learning, Data Science, and Full Stack Development.
-Currently building 
- **SCEDULAR**
- **Consult Scribe**
+
 <br clear="right">
 
 ---
