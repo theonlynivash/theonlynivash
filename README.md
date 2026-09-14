@@ -1,19 +1,17 @@
-<h1 align="center">Srinivash Karthikeyan</h1>
+<img src="Programming-bro.svg" width="280" align="right" />
 
-<p align="center">
+# Srinivash Karthikeyan
+
 B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year)
-</p>
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">LinkedIn</a>
-</p>
+[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
-<p align="center">
-Exploring Machine Learning, Data Science, and Full Stack Development.<br>
-Currently building <b>SCEDULAR</b>, and <b>Consult Scribe</b>
-</p>
+Exploring Machine Learning, Data Science, and Full Stack Development.
+Currently building **SCEDULAR**, an AI-based timetable scheduling system, and **Consult Scribe**, an AI-powered clinical documentation assistant.
 
-<br>
+<br clear="right">
+
+---
 
 <h2 align="center">Tech Stack</h2>
 
