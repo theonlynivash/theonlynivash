@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/theonlynivash/theonlynivash/main/Programming-bro.svg" width="280" align="right" />
+
 
 # Srinivash Karthikeyan
-
+<img src="https://raw.githubusercontent.com/theonlynivash/theonlynivash/main/Programming-bro.svg" width="280" align="right" />
 B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year)
 
 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
