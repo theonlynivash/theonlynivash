@@ -1,5 +1,5 @@
 <h1 align="center">Srinivash Karthikeyan</h1>
-<img src="assets/Programming-bro.png" width="250" align="right" />. The align="center"
+
 <p align="center">
 B.Tech AI &amp; Data Science Student — Panimalar Engineering College (2nd Year)
 </p>
